@@ -27,9 +27,6 @@
     "url": "https://github.com/AngelVDev/DisSLackNoti/issues"
   },
   "homepage": "https://github.com/AngelVDev/DisSLackNoti#readme",
-  "exports": {
-    ".": "./dist/index.js"
-  },
   "dependencies": {
     "@actions/core": "^1.10.0",
     "@actions/github": "^5.1.1",
