@@ -2,7 +2,7 @@
 
 A project made to send Discord and Slack notifications from your repo's actions.
 ---
-- You must specify your Slack or Discord token in your Repo secrets, a Slack channel too.
+- You must specify your Slack or Discord token in your Repo secrets, and also a Slack channel.
 - This is template to use:
 ```yaml
 name: 'Send Notifications'
